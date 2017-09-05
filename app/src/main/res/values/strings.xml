@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pulsar</string>
+
+    <!--Navigation Drawer-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="item_people_in_space">People in Space</string>
+    <string name="item_iss_location">ISS current location</string>
+    <string name="item_meteorite_landings">Meteorite landings map</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_people_in_space"
+            android:checked="true"
+            android:title="@string/item_people_in_space" />
+        <item
+            android:id="@+id/nav_iss_location"
+            android:title="@string/item_iss_location" />
+        <item
+            android:id="@+id/nav_meteorite_landings"
+            android:title="@string/item_meteorite_landings" />
+    </group>
+
+</menu>
