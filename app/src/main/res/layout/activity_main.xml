@@ -8,6 +8,7 @@
 
     <!-- Этот LinearLayout отображает содержимое экрана -->
     <LinearLayout
+        android:background="@color/background"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
@@ -31,7 +32,7 @@
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:layout_gravity="start"
-        android:background="@android:color/white"
+        android:background="@color/navDrawerBackground"
         app:headerLayout="@layout/nav_header"
         app:menu="@menu/drawer_menu" />
 </android.support.v4.widget.DrawerLayout>

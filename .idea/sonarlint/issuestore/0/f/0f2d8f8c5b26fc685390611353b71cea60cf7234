@@ -1,8 +1,8 @@
 
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(·¦¸’üÿÿÿÿ8Úýˆ“å+
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¬Î±ƒÿÿÿÿÿ8Úýˆ“å+
 gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Óšå8Úýˆ“å+
 Dsquid:S1481"(Remove this unused "tag" local variable.(Ðå”•8Úýˆ“å+
-Nsquid:S1481"-Remove this unused "fragment" local variable.(ŸÇ÷ºùÿÿÿÿ8Úýˆ“å+
-csquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±Ž
 lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ëÍÁ«ýÿÿÿÿ8Úýˆ“å+
+csquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±Ž
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(·¦¸’üÿÿÿÿ8Úýˆ“å+
+Nsquid:S1481"-Remove this unused "fragment" local variable.(ŸÇ÷ºùÿÿÿÿ8Úýˆ“å+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¬Î±ƒÿÿÿÿÿ8Úýˆ“å+
